@@ -28,7 +28,7 @@ function Project() {
           </div>
 
           <p className="text-gray-400 text-base md:text-lg leading-relaxed font-light mb-8 max-w-4xl">
-            An advanced Django-based modular academic portal engineered meticulously for polytechnic administrative and pedagogical execution. Features multi-tenant department access dashboards, structural runtime quiz matrices, digital syllabus content tracking pipelines, and real-time instantaneous broadcasting systems.
+            PolyEdu is an educational platform designed for Polytechnic students to improve academic performance and provide a comprehensive learning experience. It offers a wide range of features, including interactive course materials, personalized learning paths, and real-time progress tracking. The platform aims to enhance student engagement and facilitate effective learning through its user-friendly interface and innovative tools.
           </p>
 
           {/* SYSTEM TECH SPECS */}

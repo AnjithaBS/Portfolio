@@ -7,18 +7,18 @@ function Education() {
       date: "2026 - Present",
       title: "Diploma in Computer Engineering",
       institution: "Government Women's Polytechnic College, Kaimanam",
-      desc: "Architecting solid structural knowledge bases across multi-tier database frameworks, complex object-oriented systems design, responsive graphic layouts, and client-side distribution engines.",
+      desc: "Computer Engineering student with a passion for software development, specializing in programming languages, data structures, and algorithms. Eager to apply theoretical knowledge to real-world projects and contribute to innovative solutions in the tech industry.",
       skills: ["C programming", "Web Designing", "java","python"],
       color: "hover:border-purple-500/40 hover:shadow-[0_0_50px_rgba(168,85,247,0.06)]",
       badgeBg: "bg-purple-500/10 text-purple-300 border-purple-500/20"
     },
     {
       type: "CREATIVE SPECIALIZATION",
-      date: "Completed Mastery",
+      date: "Completed",
       title: "Certified Interactive Animator",
       institution: "SDC Kottukal",
-      desc: "Studied core cinematic workflows, physics-based motion transitions, timing parameters, storytelling vectors, and vector mechanics for modern premium application design systems.",
-      skills: ["🎞 Kinetic Staging", "✨ Vector Artistry", "🎨 Conceptual Compositing"],
+      desc: "Studied core basics of animation and visual effects.Acquired skills in 2D and 3D animation, character design, and storytelling techniques. Developed a strong foundation in animation principles and software tools, enabling the creation of engaging and visually appealing animations for various media platforms.",
+      skills: ["🎞 Storyboarding", "✨ Background Design", "🎨 Character Design","3D Modeling"],
       color: "hover:border-pink-500/40 hover:shadow-[0_0_50px_rgba(236,72,153,0.06)]",
       badgeBg: "bg-pink-500/10 text-pink-300 border-pink-500/20"
     }
