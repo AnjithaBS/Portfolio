@@ -8,22 +8,18 @@ import Project from "./components/Project";
 import Skill from "./components/Skill";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-// import Counter from "./components/Counter";
-// import Data from "./components/Data";
+
 function App() {
   return (
     <>
-      <Navbar/>
+      <Navbar />
       <Home />
       <About />
       <Education />
       <Project />
       <Skill />
       <Contact />
-      <Footer/>
-      {/* <Counter /> */}
-      {/* <Data /> */}
-    
+      <Footer />
     </>
   );
 }
